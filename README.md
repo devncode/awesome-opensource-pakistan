@@ -16,3 +16,5 @@ We are using gatsby to generate static site from dynamic content.
 
 ### Reporting Bugs and Issues
 If you think you've found a bug, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
+
+Welcome to GitHub.
