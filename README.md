@@ -1,4 +1,4 @@
-# Awesome Opensoure Pakitan
+# Awesome Opensource Pakistan
 
 This is currated list of awesome opensource project build in Pakistan.
 
